@@ -1,2 +1,2 @@
 # engi-portfolio
-all my
+all my projects so far ig
