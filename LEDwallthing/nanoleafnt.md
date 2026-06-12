@@ -83,8 +83,8 @@ about an hour to print 0.2mm res, 15g/5m fila per piece
 
 # well uh
 
-<img width="632" height="854" alt="image" src="https://github.com/user-attachments/assets/db4643c9-92b9-44ee-ae26-5dda83f073b1" />
+<img width="674" height="800" alt="image" src="https://github.com/user-attachments/assets/ad041bea-1530-43f8-af15-7d8c85aeb56a" />
 
-shit
+damn
 
 made the lid 15mm smaller instead of 1.5 bruh
