@@ -9,7 +9,7 @@ all my projects so far ig
 
 ---
 
-[Nokia 9 PureView Gaming Phone](<nokia 9 pureview gaming phone/nokia 9 pureview gaming phone.md>)   
+[Nokia 9 PureView Gaming Phone](<nokia 9 pureview gaming phone/nokia 9 pureview gaming phone.html>)   
 
 [porsche 944 custom wheels](<porsche 944 diecast wheels/porsche 944 diecast wheels.md>)
 
