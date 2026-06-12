@@ -5,7 +5,10 @@ tioday is dec 22 2024
 found this from a thrift store
 
 heres something similar that i found online 
+
 https://treasurevalleyantiques.com/products/vintage-yat-ming-no-8307-porsche-944-turbo-purple-pull-back-friction-motorized-die-cast-toy-car-vehicle-with-opening-doors-and-flip-up-headlights?variant=31843671408698
+
+---
 
 <img width="577" height="775" alt="image" src="https://github.com/user-attachments/assets/c9bca0f1-4676-479c-a521-ad9959d6de12" />
 
