@@ -4,6 +4,8 @@ all my projects so far ig
 
 (:tm:)
 
+<img width="697" height="676" alt="9469eae" src="https://github.com/user-attachments/assets/3c9f386e-63cf-4d8e-9e97-b490519413ad" />
+
 
 ---
 
