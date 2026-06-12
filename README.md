@@ -7,4 +7,5 @@ all my projects so far ig
 
 ---
 
-* [Nokia 9 Gaming Phone Conversion](/nokia 9 pureview gaming phone/nokia 9 pureview gaming phone.md)
+[nokia 9 pureview phone conversion](./nokia-9-pureview-gaming-phone/nokia-9-pureview-gaming-phone.md)
+
