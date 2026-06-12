@@ -9,12 +9,12 @@ all my projects so far ig
 
 ---
 
-[Nokia 9 PureView Gaming Phone](<nokia 9 pureview gaming phone/nokia 9 pureview gaming phone.html>)   
+[Nokia 9 PureView Gaming Phone](<nokia 9 pureview gaming phone/nokia 9 pureview gaming phone>)   
 
-[porsche 944 custom wheels](<porsche 944 diecast wheels/porsche 944 diecast wheels.md>)
+[porsche 944 custom wheels](<porsche 944 diecast wheels/porsche 944 diecast wheels>)
 
-[pentium keychain](<processor keychain/pentium keychain.md>)
+[pentium keychain](<processor keychain/pentium keychain>)
 
-[under desk controller holder](<controller under desk holder/controller under desk holder.md>)
+[under desk controller holder](<controller under desk holder/controller under desk holder>)
 
-[led wall light thingy](<LEDwallthing/nanoleafnt.md>)
+[led wall light thingy](<LEDwallthing/nanoleafnt>)
